@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Henni"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/_images/henni.jpg"
   bio              : "***go!***"
   location         : "어딘가에..."
   email            :
