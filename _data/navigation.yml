@@ -66,3 +66,5 @@ sidebar-category:
         url:  "/Certification"
       - title: "Jsp"
         url:  "/Jsp"
+      - title: "Python"
+        url:  "/Python"
