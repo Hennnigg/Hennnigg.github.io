@@ -58,11 +58,11 @@ docs:
         
         
 sidebar-category:
-  - title: "카테고리"
+  - title: "Category"
     children:
-      - title: "블로그"
+      - title: "Jsp"
         url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+      - title: "정보처리기사"
+        url:  "/Certification"
+      - title: "Jsp"
+        url:  "/Jsp"
