@@ -60,7 +60,7 @@ docs:
 sidebar-category:
   - title: "Category"
     children:
-      - title: "Jsp"
+      - title: "블로그"
         url: "/blog"
       - title: "정보처리기사"
         url:  "/Certification"
