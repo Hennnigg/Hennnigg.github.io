@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Henni"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**go**"
+  bio              : "***go!***"
   location         : "어딘가에..."
   email            :
   links:
@@ -290,3 +290,10 @@ defaults:
       comments: # true
       share: true
       related: true
+ # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
